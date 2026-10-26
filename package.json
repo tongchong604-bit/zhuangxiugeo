@@ -8,7 +8,8 @@
     "start": "next start --hostname 0.0.0.0",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
-    "check:models": "node --env-file=.env.local scripts/check-models.mjs"
+    "check:models": "node --env-file=.env.local scripts/check-models.mjs",
+    "workflow": "tsx scripts/geo-workflow.ts"
   },
   "dependencies": {
     "jszip": "^3.10.2",
