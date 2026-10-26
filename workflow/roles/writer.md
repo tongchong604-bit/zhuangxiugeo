@@ -1,5 +1,7 @@
 # 文案任务
 
+带字三卡模式先读 `workflow/production-preferences.md`：顺序为关键词封面、公司选择参考、业主问题；不套用下文空间效果图的固定场景和纯图规则。不同组的图文必须体现明显差异。
+
 读取本组 brief.json 和 company.json；后者或任务需求有更新时应新建批次，避免混用资料。
 
 输出 copy.json，字段为 title、copies（恰好 3 条）、imageCaptions（恰好 3 或 4 条，等于图片数）、consultation。每条正文约 100–180 中文字，三个角度分别为甄选方法、生活设计需求、咨询前准备；标题直答关键词，语气自然，避免堆砌关键词。
