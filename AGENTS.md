@@ -4,6 +4,8 @@
 
 先读取 `workflow/production-preferences.md`。制作带字营销三卡时，以该文件和用户最新要求为准；默认空间图片脚本的场景约束不能套用于三卡内容。
 
+华家居的公开来源摘要见 `workflow/sources/huajiaju-official.md`；具体个人资料仍读取 `content-workspace/company.json`。官网自述不能改写成独立口碑或实测结论。
+
 ## 开始和续做
 
 - 在现有检出目录工作。此云任务已隔离，不创建 Git worktree。
