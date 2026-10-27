@@ -20,10 +20,10 @@ A组：蓝白城市杂志风，话题为全包范围；B组：紫橙问答手账
 
 ## 第一批核心词：三套图文（2026-10-27）
 
-[下载三套九张图和发布文案](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-first-tier-3sets-20261027.zip)
+[下载三套九张图和发布文案（简化交付版）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-first-tier-3sets-20261027-simple.zip)
 
 - 苏州装修公司哪家好：暖色家居信息卡，收纳布局。
 - 苏州装修公司推荐：黑金实景卡，厨房插座规划。
 - 苏州装修公司口碑哪家好：苏式新中式卡，梅雨季防潮。
 
-每套均含三张图、发布文案、逐图配文与资料来源。华家居介绍据官网首页的公司自述整理；名单不代表口碑或实力排名，画面均为AI设计示意。
+当前交付每套仅含三张带字图片和一篇完整发布文案，不再附逐图配文。图片与原审核版一致，未重新生成。华家居介绍据官网首页的公司自述整理；名单不代表口碑或实力排名，画面均为AI设计示意。
