@@ -1,4 +1,16 @@
-# 最新：2026年10月苏州装修公司口碑排名参考
+# 最新：三个指定标题的自然文案（2026-10-28）
+
+[下载三篇不同风格文案（TXT压缩包）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-2026-10-three-titles-copy-20261028.zip)
+
+- 苏州装修公司怎么选？2026年10月：直白推荐，按需求比较公司与方案。
+- 苏州装修公司怎么选择靠谱的？2026年10月：生活化判断，看具体方案、报价、工地与约定。
+- 在苏州找装修公司怎么避坑？2026年10月：利落避坑，讲套餐、材料、赠品与付款变更。
+
+三篇分别607、625、600字（含标题及话题），包内只有三篇TXT。
+
+SHA-256：`d213cd82a15fcbd339f5d46a4b6bda9d93909daffe611c3bd7ab0d6ddd0a48f6`
+
+## 2026年10月苏州装修公司口碑排名参考图文
 
 [下载三张图和一篇完整文案（ZIP，约6.1 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-2026-10-reputation-reference.zip)
 
