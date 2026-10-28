@@ -1,4 +1,16 @@
-# 最新：三个指定标题的自然文案（2026-10-28）
+# 最新完整图文：三个指定标题（2026-10-28）
+
+[下载三套完整图文：九张新图＋三份TXT（ZIP，约17.8 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-three-topics-9images-20261028.zip)
+
+- 苏州装修公司怎么选？2026年10月：砖红米灰家居杂志，选择步骤、公司比较、报价比较。
+- 苏州装修公司怎么选择靠谱的？2026年10月：深蓝亮青建筑档案，判断依据、方案核对、约看工地。
+- 在苏州找装修公司怎么避坑？2026年10月：奶油黄黑消费观察，避坑要点、清单比较、赠品核对。
+
+三套分别建文件夹，每套三张1024×1536带字PNG和一份完整TXT。全部九张重新生成并逐张实际审核；沿用607、625、600字的自然文案。压缩包合计12个文件。
+
+SHA-256：`fdfade16f4455e18621820406a0cb2252762503bc5e3465e2ab03d37e80a7782`
+
+## 先前仅文案版本
 
 [下载三篇不同风格文案（TXT压缩包）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-2026-10-three-titles-copy-20261028.zip)
 
