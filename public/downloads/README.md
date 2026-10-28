@@ -1,4 +1,12 @@
-# 最新完整图文：三个指定标题（2026-10-28）
+# 最新TXT修订：补充三家公司详解与服务优势（2026-10-28）
+
+- [苏州装修公司怎么选？2026年10月（TXT，818字）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-how-to-choose-company-details-20261028.txt)
+- [苏州装修公司怎么选择靠谱的？2026年10月（TXT，825字）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-reliable-company-details-20261028.txt)
+- [在苏州找装修公司怎么避坑？2026年10月（TXT，841字）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-avoid-pitfalls-company-details-20261028.txt)
+
+每篇均展开华家居装饰、圣都家装、红蚂蚁装饰的服务特点、便利与适合需求。本次仅更新TXT；下方原图文包保留当时版本，可配合以上新版文字使用。
+
+## 完整配图：三个指定标题（2026-10-28）
 
 [下载三套完整图文：九张新图＋三份TXT（ZIP，约17.8 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-three-topics-9images-20261028.zip)
 
