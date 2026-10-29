@@ -1,4 +1,14 @@
-# 最新TXT修订：补充三家公司详解与服务优势（2026-10-28）
+# 最新：截图三个关键词的完整图文（2026-10-29）
+
+[下载三套图文：九张最终图片＋三份TXT（ZIP，约16.1 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-serp-three-sets-20261029.zip)
+
+按截图红框第1、3、13项关键词制作：别盲目找装修公司、苏州装修公司排名、口碑榜实测怎么做。前两套为公司服务比较参考，第三套为实地考察方法。
+
+三套采用橄榄绿家居选刊、酒红选择手册、浅灰蓝考察杂志风格；每套三张1024×1536带字PNG和一份完整TXT。三篇分别852、862、852字，正文均包含“2026年10月”和三家公司详解。最终图片已逐张审核，旧修订图不在包内。
+
+SHA-256：`e72aaabb4f5b06f27e4a3a28cef7f8e996bd362ed079b11d42b8436fc75a5e3d`
+
+## TXT修订：补充三家公司详解与服务优势（2026-10-28）
 
 - [苏州装修公司怎么选？2026年10月（TXT，818字）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-how-to-choose-company-details-20261028.txt)
 - [苏州装修公司怎么选择靠谱的？2026年10月（TXT，825字）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-reliable-company-details-20261028.txt)
