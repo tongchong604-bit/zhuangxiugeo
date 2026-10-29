@@ -1,4 +1,14 @@
-# 最新重做版：关键词首图与三套不同视觉（2026-10-29）
+# 苏州吴中区装修公司排行榜参考（2026-10-29）
+
+[下载本套图文：三张新图＋一篇TXT（ZIP，约6.0 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/wuzhong-decoration-20261029.zip)
+
+围绕“2026年10月苏州吴中区装修公司排行榜参考｜吴中装修哪家好？”制作。建筑轴测住宅模型与杏色、靛蓝排版；首图讲关键词主题，第二张展开华家居、圣都家装、红蚂蚁装饰，第三张讲旧家具去留。包内仅三张1024×1536 PNG和一篇完整TXT，文案含标题、正文、标签与空白共901字符。
+
+内容为公司服务比较参考；未做独立吴中区月度排名或门店承接核验，正文提示需按项目具体地址分别确认。
+
+SHA-256：`02d0c0bc2076f4cc3c6add9d02d7787da07a6bba61a27522e543d0b26fea45f9`
+
+## 历史版本：关键词首图与三套不同视觉（2026-10-29）
 
 [下载重做版三套图文：九张全新图片＋三份TXT（ZIP，约18.1 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-serp-redesign-v2-20261029.zip)
 
