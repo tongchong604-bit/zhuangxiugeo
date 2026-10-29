@@ -1,4 +1,14 @@
-# 最新：截图三个关键词的完整图文（2026-10-29）
+# 最新重做版：关键词首图与三套不同视觉（2026-10-29）
+
+[下载重做版三套图文：九张全新图片＋三份TXT（ZIP，约18.1 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-serp-redesign-v2-20261029.zip)
+
+三张首图只围绕完整关键词与具体主题解释，不出现公司品牌、名单或公司介绍；第二张集中介绍华家居、圣都家装、红蚂蚁装饰，第三张分别讲老房开工准备、设计图落地、材料进场核对。
+
+三套视觉分别为住宅摄影杂志、紫黄图形信息设计、资料材料实物俯拍，已实际对照旧图检查。每套三张1024×1536新PNG和一篇完整TXT，包内共12个文件；文案分别863、865、853字，均含2026年10月及三家公司详解。
+
+SHA-256：`54ca3495a2765a4e8086ee39e5904e0541aff9fd0a525cfcc68bc2077eae8b7a`
+
+## 前一版：截图三个关键词的完整图文（2026-10-29）
 
 [下载三套图文：九张最终图片＋三份TXT（ZIP，约16.1 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-serp-three-sets-20261029.zip)
 
