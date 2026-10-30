@@ -1,4 +1,16 @@
-# 苏州全屋整装哪家公司好（2026-10-30）
+# 苏州装修公司六家特点：8页轮播（2026-10-30）
+
+[下载8张新图＋短发布文案（ZIP，约15.5 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-six-company-guide-20261030.zip)
+
+[直接查看短发布文案（TXT）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-six-company-guide-20261030.txt)
+
+不再固定三张图：封面、华家居、圣都、红蚂蚁、锦华、安得、青庭六家详情与公司选择签约页，共8张1024×1536新PNG。逐页改变照片构图和编辑布局，短TXT含标题、正文、标签及空白共383字符；包内仅8张图和一份TXT，按阅读顺序命名。
+
+公司介绍基于既有官网摘要或用户提供的基础服务资料，未做独立口碑评分、价格或实地测评。
+
+ZIP SHA-256：`b51cecc0d54b2de775b267c1bfd317a98b11560a1096c0f89b4e415e60a5a0d5`
+
+## 历史版本：苏州全屋整装哪家公司好（2026-10-30）
 
 [下载一套完整图文：三张新图＋一篇TXT（ZIP，约4.2 MiB）](https://raw.githubusercontent.com/tongchong604-bit/zhuangxiugeo/main/public/downloads/suzhou-whole-home-20261030.zip)
 
